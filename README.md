@@ -1,6 +1,6 @@
 # API de gestão de contatos
 
-* Sistema desenvolvido tecnologias:
+### Sistema desenvolvido tecnologias:
 * ASPNET core 2.2 
 * Linguagem de programação C#
 * DDD - Domain Driven Design
